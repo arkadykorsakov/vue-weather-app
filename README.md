@@ -1,19 +1,16 @@
 # weather-app
 
-## Project setup
+## Установка приложения
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск приложения
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### О приложении
 ```
-npm run build
+Приложение помогает узнать погоду в любом городе мира. Введите название города и нажмите клавишу "Enter", чтобы узнать погоду в интересующем Вас городе
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
